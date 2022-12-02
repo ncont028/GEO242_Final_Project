@@ -1,0 +1,847 @@
+Fault,Longitude,Latitude,Location Description,Creep rate (mm/yr),sig (mm/yr),Type,Inst,Start,End,Years,Source,EQ Contamination,Temporal Variation Observed,Added or Updated from UCERF3,Used in 2021 Inversion
+San Andreas,-115.99,33.58,Red Canyon,1.7,Undf.,Aft,AA,1967,1983,16.0,12,Yes,Yes,No,No
+Imperial,-115.356,32.683,Tuttle Ranch,6,Undf.,Aft,CM,1980,1984,,12,Yes,Yes,No,No
+San Andreas,-120.5717,36.015,Bagby ranch,23.8,0.4,Int,AA,1970,1979,9.0,3,,,No,Yes
+San Andreas,-115.8178,33.4239,"Bat Caves, Coachella Valley",3.3,0.667,Int,SAR,1992.7,1999.5,6.8,26,,Yes,Yes,Yes
+San Andreas,-115.8178,33.4239,"Bat Caves, Coachella Valley",2.4,0.667,Int,SAR,2003.5,2010.25,6.8,26,,Yes,Yes,Yes
+San Andreas,-115.8178,33.4239,"Bat Caves, Coachella Valley",1.9,0.667,Int,SAR,2014.9,2018,3.5,26,,Yes,Yes,Yes
+San Andreas,-117.8,34.422,Big Pines,0,1,Int,AA,1970,1981,11.0,12,,,No,Yes
+San Andreas,-120.9832,36.3974,BIT (Bitterwater),16.76,0.32,Int,CM,1969.5,1995.9,26.4,17,,,Yes,Yes
+San Andreas,-116,33.5827,Box Canyon,3.7,0.667,Int,SAR,1992.7,1999.5,6.8,26,,Yes,Yes,Yes
+San Andreas,-116,33.5827,Box Canyon,2,0.667,Int,SAR,2003.5,2010.25,6.8,26,,Yes,Yes,Yes
+San Andreas,-116,33.5827,Box Canyon,0.4,0.667,Int,SAR,2014.9,2018,3.5,26,,Yes,Yes,Yes
+Berryessa,-122.29829,38.62156,"BPCE (Pope Canyon, East trace)",-0.8,0.4,Int,AA,2010,2017,7.6,14,,,Yes,Yes
+Berryessa,-122.32086,38.62179,BPCW (Pope Canyon West trace),-1.8,0.8,Int,AA,2010,2014,4.6,14,,,Yes,Yes
+Bartlett Springs,-122.49721,39.00138,BS20 (Highway 20),1.4,0.4,Int,AA,2010,2017,7.6,14,,,Yes,Yes
+Bartlett Springs,-123.24823,39.75875,BSFB (Fairbanks Road),-0.2,0.2,Int,AA,2009,2014,5.2,14,,,Yes,Yes
+Bartlett Springs,-122.95726,39.4456,BSLP (Lake Pillsbury),3.5,0.1,Int,AA,2005,2018,12.5,14,,,Yes,Yes
+Bartlett Springs,-123.22755,39.74003,BSRV (Round Valley),0.4,1.5,Int,AA,2008,2011,3,14,,,Yes,Yes
+Berryessa,-122.34194,38.65523,"BWJC (Jerd Creek, West trace)",4.2,1,Int,AA,2011,2017,6.2,14,,,Yes,Yes
+San Andreas,-117.49,34.2858,Cajon,0,0.5,Int,AA,1970,1984,14.0,12,,,No,Yes
+Garlock,-118.299,35.0898,Cameron,5.7,1.5,Int,AA,1971,1982,,12,,,No,Yes
+Calaveras,-121.9359,37.7044,Camp Parks,2.8,0.5,Int,AA,1965,1977,12.0,11,,,No,Yes
+Concord,-122.03524,37.97189,CASH (Ashbury Drive),3.5,0.3,Int,AA,1979,2017,38,14,,,Yes,Yes
+San Andreas,-121.6483,36.9267,Chamberlain,0.8,0.4,Int,AA,1967,1972,5.0,3,,,No,Yes
+Garlock,-117.352,35.532,Christmas,0,0.365,Int,AA,1971,1983,,12,,,No,Yes
+San Andreas,-121.3839,36.7495,Cienega Winery,12.3,0.2,Int,Cult,1948,1976,28.0,3,,,No,Yes
+San Jacinto,-117.264,34.0442,Claremont (Colton),0,1,Int,AA,1973,1983,,12,,,No,Yes
+San Jacinto,-116.669,33.5861,Clark (Anza),0,2,Int,AA,1977,1984,,12,,,No,Yes
+San Andreas,-121.1841,36.5902,"Corral, Melendy",22,0.2,Int,Cult,1945,1978,33.0,3,,,No,Yes
+San Andreas,-115.8764,33.4764,"Corvina Beach, Coachella Valley",7.5,0.667,Int,SAR,1992.7,1999.5,6.8,26,,Yes,Yes,Yes
+San Andreas,-115.8764,33.4764,"Corvina Beach, Coachella Valley",4.2,0.667,Int,SAR,2003.5,2010.25,6.8,26,,Yes,Yes,Yes
+San Andreas,-115.8764,33.4764,"Corvina Beach, Coachella Valley",1.6,0.667,Int,SAR,2014.9,2018,3.5,26,,Yes,Yes,Yes
+Superstition Hills,-115.7009,32.9301,coSH (Superstition Hills),1.35,0.266,Int,CM,2004,2006,2.0,4,,,Yes,Yes
+Superstition Hills,-115.7009,32.9301,coSH (Superstition Hills),0.6,0.266,Int,CM,2010,2011,1.0,4,,,Yes,Yes
+San Andreas,-121.2017,36.605,Cross-Willow,19.9,0.4,Int,AA,1972,1977,5.0,3,,,No,Yes
+San Andreas,-120.36,35.84,CRR1,3.97,0.266,Int,CM,1971,1987,16.0,2,,,No,Yes
+Concord,-122.03824,37.97569,CSAL (Salvio Street),2.9,0.1,Int,AA,1979,2018,38.7,14,,,Yes,Yes
+Calaveras,-121.40631,36.84952,CV7S (Seventh Street),7.8,0.1,Int,AA,1979,2018,38.8,14,,,Yes,Yes
+Calaveras,-121.64941,37.22206,CVCC (Carlin Canyon),8.6,0.4,Int,AA,2010,2017,7.2,14,,,Yes,Yes
+Calaveras,-121.96083,37.74569,CVCP (Corey Place),1.7,0.1,Int,AA,1980,2018,37.5,14,,,Yes,Yes
+Calaveras,-121.52521,37.06981,CVCR (Coyote Ranch),10.3,0.1,Int,AA,1968,2018,50.3,14,,,Yes,Yes
+Calaveras,-121.80616,37.4505,CVCV (Calaveras Valley),3.8,0.3,Int,AA,2012,2017,4.7,14,,,Yes,Yes
+Calaveras,-121.93713,37.70649,CVSP (Shannon Park),1.5,0.1,Int,AA,2002,2018,16.4,14,,,Yes,Yes
+Calaveras,-121.87693,37.5985,CVSU (Sunol),2.3,0.2,Int,AA,2002,2016,13.7,14,,,Yes,Yes
+Calaveras,-121.85183,37.5357,CVWC (Welch Creek Rd),4.4,0.1,Int,AA,1997,2018,21.3,14,,,Yes,Yes
+Calaveras,-121.41381,36.86982,CVWR (Wright Rd),10,0.1,Int,AA,1979,2018,38.8,14,,,Yes,Yes
+San Andreas,-121.385,36.7497,"CWN (Cinega Winery, North)",12.72,0.23,Int,CM,1972.5,2020.7,48.2,17,,,Yes,Yes
+San Andreas,-116.616,33.9325,Devers,2,0.365,Int,AA,1972,1982,10.0,12,,,No,Yes
+San Andreas,-121.0517,36.4817,Dry Lake,21.9,0.4,Int,AA,1967,1974,7.0,3,,,No,Yes
+San Andreas,-120.4217,35.885,Durham Ranch,8.7,0.365,Int,AA,1968,2004,36.0,22,,,No,Yes
+San Andreas,-120.975,36.3883,Eade Ranch,31.3,0.4,Int,AA,1970,1976,6.0,3,,,No,Yes
+San Andreas,-121.1943,36.5988,"Fence, Airline",19,0.2,Int,Cult,1937,1966,29.0,1,,,No,Yes
+San Andreas,-120.9687,36.3828,"Fence, BWV",28,0.2,Int,Cult,1941,1966,25.0,1,,,No,Yes
+San Andreas,-120.3072,35.7567,"Fence, Cholame",18,0.2,Int,Cult,1908,1978,70.0,3,,,No,Yes
+San Andreas,-120.5357,35.9837,"Fence, Claassen",25,0.2,Int,Cult,1946,1966,20.0,24,,,No,Yes
+San Andreas,-120.2267,35.6728,"Fence, O'Brien L",0,0.2,Int,Cult,1937,1966,29.0,1,,,No,Yes
+Greenville,-121.69817,37.7206,GALT (Altamont Pass Road),0.7,0.2,Int,AA,2009,2017,8.1,14,,,Yes,Yes
+Greenville,-121.57385,37.55581,"GCDM (Cedar Mt., Mines Rd., Widger Ranch)",-1.5,1.1,Int,AA,2014,2017,3.3,14,,,Yes,Yes
+Greenville,-121.51785,37.4475,GMTM (Mount Mocho),1.1,1.9,Int,AA,2013,2017,3.7,14,,,Yes,Yes
+Greenville,-121.77063,37.78659,GMTR (Morgan Territory Rd.),6.3,2.5,Int,AA,2014,2017,3.3,14,,,Yes,Yes
+Green Valley,-122.151,38.207,Green Valley,8.244,9.109,Int,SAR,2006,2010,3.5,23,,,No,No
+Green Valley,-122.117,38.119,Green Valley,2.505,12.888,Int,SAR,2006,2010,3.5,23,,,No,No
+Green Valley,-122.179,38.294,Green Valley,18.712,18.421,Int,SAR,2006,2010,3.5,23,,,No,No
+Greenville,-121.47562,37.32678,GSAR (San Antonio Rd.),1.1,0.9,Int,AA,2014,2017,3.3,14,,,Yes,Yes
+Green Valley,-122.24806,38.47626,GVCL (Crystal Lake),0.9,0.3,Int,AA,2007,2014,7.3,14,,,Yes,Yes
+Green Valley,-122.1556,38.21861,GVDY (Dynasty Court),0.5,0.2,Int,AA,2009,2018,9,14,maybe,,Yes,No
+Green Valley,-122.16186,38.23603,GVMR (Mason Rd),2.6,0.2,Int,AA,2005,2018,13.5,14,,,Yes,Yes
+Green Valley,-122.11316,38.11413,GVPR (Parish Rd),0.4,0.4,Int,AA,2007,2017,10.2,14,,,Yes,Yes
+Green Valley,-122.15054,38.19848,GVRT (Red Top Rd),3.7,0.1,Int,AA,1984,2018,34.1,14,,,Yes,Yes
+Green Valley,-122.1368,38.16584,GVSR (S. Ridgefield Way),2.2,0.4,Int,AA,2009,2018,9,14,,,Yes,Yes
+Hayward,-122.10578,37.69495,H167 (167th),4.7,0.1,Int,AA,1992,2018,26.2,14,,,Yes,Yes
+Hayward,-122.18931,37.79504,H39A (39th),4.5,0.1,Int,AA,1974,2018,44.5,14,,,Yes,Yes
+Hayward,-122.16977,37.77426,H73A (73rd),3.4,0.1,Int,AA,1993,2018,25.4,14,,,Yes,Yes
+Hayward,-122.00193,37.5924,HAPP (Appian Way),5.8,0.1,Int,AA,1979,2018,39.1,14,,,Yes,Yes
+Hayward,-121.93528,37.51235,HCAM (Camellia Drive),7.6,0.3,Int,AA,1990,2018,21.0,14,,,Yes,Yes
+Hayward,-122.33902,37.96918,HCCC (Contra Costa College),5.2,0.1,Int,AA,1980,2018,38.1,14,,,Yes,Yes
+Hayward,-121.88548,37.4534,HCCD (Country Club Drive),7.5,2.3,Int,AA,2015,2018,2.1,14,,,Yes,Yes
+Hayward,-122.13068,37.7316,HCHB (Chabot Park),4,0.1,Int,AA,1993,2018,25.4,14,,,Yes,Yes
+Hunting Creek,-122.38873,38.81388,HCHC (Hunting Creek),3.3,0.4,Int,AA,2007,2018,11.2,14,,,Yes,Yes
+Hayward,-122.02325,37.61422,HCHM (Chimes),6.2,0.1,Int,AA,1994,2018,24.2,14,,,Yes,Yes
+Hayward,-122.08162,37.67021,HDST (D Street),4.7,0.1,Int,AA,1980,2018,38.3,14,,,Yes,Yes
+Hayward,-122.24107,37.86447,HDWT (Dwight Way),5.1,0.1,Int,AA,1997,2018,21.2,14,,,Yes,Yes
+Hayward,-122.15148,37.75453,HENC (Encina Way),2.6,0.1,Int,AA,1989,2018,29.1,14,,,Yes,Yes
+Hayward,-122.2734,37.8998,HFLO (Florida Avenue),2.7,0.1,Int,AA,1997,2018,21.2,14,,,Yes,Yes
+Hayward,-122.12131,37.71749,HFMT (Fairmont),4.6,0.1,Int,AA,1997,2018,21.2,14,,,Yes,Yes
+Hayward,-121.98094,37.56645,HGIL (Gilbert),5.9,0.1,Int,AA,1983,2018,35.0,14,,,Yes,Yes
+Hayward,-121.95914,37.53942,HHAN (Hancock),6.5,0.1,Int,AA,1982,2018,36.8,14,,,Yes,Yes
+Hayward,-122.19863,37.80999,HLNC (Lincoln),3.7,0.1,Int,AA,1970,2018,48.5,14,,,Yes,Yes
+Hayward,-122.21005,37.82638,HLSA (LaSalle Ave),4.4,0.1,Int,AA,1993,2018,25.7,14,,,Yes,Yes
+Hayward,-121.92182,37.49629,HMSS (Mission),5.3,0.2,Int,AA,1993,2012,19.6,14,,,Yes,Yes
+Hayward,-122.30959,37.94252,HOLV (Olive Drive),5.6,0.1,Int,AA,1989,2018,29.0,14,,,Yes,Yes
+Hayward,-121.92894,37.50516,HONO (Onondaga),3.2,0.2,Int,AA,1982,2013,31.3,14,,,Yes,Yes
+Hayward,-122.07397,37.6627,HPAL (Palisade),4.9,0.1,Int,AA,1977,2018,41.7,14,,,Yes,Yes
+Hayward,-121.94181,37.51973,HPIN (Pine),9.4,0.2,Int,AA,1989,2018,29.6,14,,,Yes,Yes
+Hayward,-121.93262,37.5096,HPMD (Parkmeadow Drive),6.4,0.1,Int,AA,1992,2018,7.0,14,,,Yes,Yes
+Hayward,-121.96187,37.5421,HRKT (Rockett Drive),5.5,0.1,Int,AA,1979,2018,39.1,14,,,Yes,Yes
+Hayward,-122.09121,37.67983,HROS (Rose Street),4.5,0.1,Int,AA,1980,2018,38.3,14,,,Yes,Yes
+Hayward,-122.05902,37.64798,HSEP (Sepulchre),5.3,0.1,Int,AA,1994,2018,24.2,14,,,Yes,Yes
+Hayward,-121.93046,37.5072,HSGR (S. Grimmer),5.9,0.1,Int,AA,1982,2018,36.3,14,,,Yes,Yes
+Hayward,-122.25061,37.87066,HSTA (Memorial Stadium),4.9,0.1,Int,AA,1966,2018,51.9,14,,,Yes,Yes
+Hayward,-122.29294,37.92449,HTBR (Thors Bay Road),3.6,0.1,Int,AA,1989,2018,29.0,14,,,Yes,Yes
+Hayward,-122.23137,37.84853,HTEM (Temescal),4.4,0.1,Int,AA,1974,2018,44.5,14,,,Yes,Yes
+Hayward,-121.95584,37.53614,HUNI (Union),6.5,0.1,Int,AA,1993,2018,25.8,14,,,Yes,Yes
+Hayward,-122.0414,37.63097,HWDL (Woodland),4.6,0.1,Int,AA,1970,2018,48.7,14,,,Yes,Yes
+San Andreas,-116.234,33.777,Indio,1.5,0.6,Int,AA,1970,1984,14.0,12,,,No,Yes
+San Andreas,-120.9823,36.3972,"Lane, BWV",25,0.2,Int,Cult,1908,1966,58.0,1,,,No,Yes
+San Andreas,-121.2717,36.6583,Lewis,14,0.4,Int,AA,1973,1977,4.0,3,,,No,Yes
+Calaveras,-121.8508,37.5358,Lower North,3.6,0.5,Int,AA,1997,2001,4.0,5,,,No,Yes
+Maacama,-123.0507,38.93464,"MAMR (Middle Ridge, near Hopland, CA)",2.5,0.6,Int,AA,2008,2017,8.8,14,,,Yes,Yes
+San Andreas,-115.887,33.482,Mecca beach,0.7,0.266,Int,CM,1981,1984,3.0,12,,,No,Yes
+San Andreas,-120.798,36.18,Mee Ranch,26.7,1,Int,GPS,1970,2003,33.0,21,,,No,Yes
+San Andreas,-120.7567,36.18,Mee Ranch,23.7,0.365,Int,AA,1970,2004,34.0,22,,,Yes,Yes
+San Andreas,-121.1845,36.5933,Melendy,22.9,0.4,Int,AA,1967,1978,11.0,3,,,No,Yes
+Maacama,-122.82647,38.7032,"MSKP (Skipstone Ranch, Alexander Valley)",1.4,0.3,Int,AA,2008,2017,8.9,14,,,Yes,Yes
+Maacama,-123.16748,39.13906,"MUKI (Sanford Ranch Road, Ukiah)",4.2,0.1,Int,AA,1993,2018,24.9,14,,,Yes,Yes
+Maacama,-123.35612,39.41242,"MWIL (W. Commercial Ave., Willits)",5.3,0.1,Int,AA,1991,2018,26.5,14,,,Yes,Yes
+Rodgers Creek,-122.7083,38.4701,Nielson Rd,0.4,0.5,Int,AA,1980,1986,6.0,5,,,No,Yes
+San Andreas,-115.949,33.541,North Shore,0,0.1,Int,CM,1970,1984,14.0,12,,,No,Yes
+San Andreas,-115.9325,33.5839,"North Shore, Coachella Valley",1.9,0.667,Int,SAR,1992.7,1999.5,6.8,26,,Yes,Yes,Yes
+San Andreas,-115.9325,33.5839,"North Shore, Coachella Valley",1,0.667,Int,SAR,2003.5,2010.25,6.8,26,,Yes,Yes,Yes
+San Andreas,-115.9325,33.5839,"North Shore, Coachella Valley",0,0.667,Int,SAR,2014.9,2018,3.5,26,,Yes,Yes,Yes
+San Andreas,-121.5467,36.8548,NYL,9.37,0.1,Int,CM,2004.2,2013.1,8.9,17,,,Yes,Yes
+San Andreas,-121.5453,36.8549,Nyland Fence,8,0.2,Int,Cult,1942,1978,36.0,3,,,No,Yes
+San Andreas,-121.525,36.8392,Old Highway,13.3,0.2,Int,Cult,1926,1978,52.0,3,,,No,Yes
+San Andreas,-121.3467,36.72,Paicines,13.5,0.4,Int,AA,1972,1977,5.0,3,,,No,Yes
+Calaveras,-121.1425,36.5932,Paicines-Pionne,10,3,Int,Geod,1975,1979,4.0,11,,,No,Yes
+Calaveras,-121.3233,36.805,Paicines-Thomas,6.2,0.1,Int,AA,1973,1986,13.0,25,,,No,Yes
+Calaveras,-121.3736,36.805,Paicines-Tres P.,5,3,Int,Geod,1975,1979,4.0,11,,,No,Yes
+San Andreas,-116.0222,33.6014,"Painted Canyon, Coachella Valley",2.6,0.667,Int,SAR,1992.7,1999.5,6.8,26,,Yes,Yes,Yes
+San Andreas,-116.0222,33.6014,"Painted Canyon, Coachella Valley",2.4,0.667,Int,SAR,2003.5,2010.25,6.8,26,,Yes,Yes,Yes
+San Andreas,-116.0222,33.6014,"Painted Canyon, Coachella Valley",1.7,0.667,Int,SAR,2014.9,2018,3.5,26,,Yes,Yes,Yes
+San Andreas,-117.888,34.457,Pallett Creek,0,0.2,Int,AA,1970,1984,14.0,12,,,No,Yes
+San Andreas,-120.205,35.6517,Palo Prieto,0,0.4,Int,AA,1975,1977,2.0,3,,,No,Yes
+San Andreas,-120.4337,35.8951,Parkfield Brdg,22,0.2,Int,Cult,1932,1978,46.0,3,,,No,Yes
+San Andreas,-121.135,36.5433,Pinnacles,23.1,0.4,Int,AA,1972,1977,5.0,3,,,No,Yes
+San Andreas,-123.6895,39,Point Arena,0.5,0.1,Int,AA,1981,2000,19.0,5,,,No,Yes
+San Andreas,-122.7969,38.0441,Point Reyes,-0.1,0.365,Int,AA,1985,2009,24.0,12,,,No,Yes
+Garlock,-117.656,35.452,Rand,0,0.365,Int,AA,1971,1983,,12,,,No,Yes
+Rodgers Creek,-122.86539,38.64186,RCBP (Bridle Path),0.9,0.1,Int,AA,2015,2018,3,14,,,Yes,Yes
+Rodgers Creek,-122.7949,38.5773,RCBR (Brooks Road),-1.2,1.3,Int,AA,2010,2014,4.5,14,,,Yes,Yes
+Rodgers Creek,-122.73807,38.50169,RCMW (Mark West Springs Rd.),4.3,0.4,Int,AA,2008,2018,10.5,14,,,Yes,Yes
+Rodgers Creek,-122.69446,38.43687,RCSD (Solano Drive),1.3,0.1,Int,AA,2002,2018,15.9,14,,,Yes,Yes
+Rodgers Creek,-122.59046,38.30928,RCSM (Sonoma Mtn. Rd),2.1,0.2,Int,AA,2002,2018,15.8,14,,,Yes,Yes
+Rodgers Creek,-122.47916,38.1987,RCWC (Wildcat Mountain),0.2,0.3,Int,AA,2010,2017,7.2,14,,,Yes,Yes
+Calaveras,-121.812,37.4578,Reservoir,2.2,0.5,Int,Geod,1970,1979,9.0,16,,,No,Yes
+San Andreas,-121.1835,36.574,River Terrace,23.1,0.4,Int,AA,1970,1973,3.0,3,,,No,Yes
+Rodgers Creek,-122.6405,38.3478,Roberts Rd,1.6,0.1,Int,AA,1986,2000,14.0,5,,,No,Yes
+Imperial,-115.4787,32.8202,Ross Road,5,0.266,Int,CM,1975,1979,,12,,,No,Yes
+San Andreas,-123.69059,38.99986,SAAC (Alder Creek),0.4,0.1,Int,AA,1981,2017,36.9,14,,,Yes,Yes
+San Andreas,-121.58611,36.88261,SACR (Cannon Road),0.1,0.1,Int,AA,1989,1998,8.2,14,maybe,,Yes,No
+San Andreas,-122.46564,37.64419,SADW (Duhallow Way),-0.2,0.1,Int,AA,1980,2018,38.2,14,,,Yes,Yes
+San Andreas,-121.52171,36.83502,SAMV (Mission Vineyard Rd),11.7,0.1,Int,AA,1990,2018,28,14,,,Yes,Yes
+Calaveras,-121.4826,37.0096,San Felipe,13,2,Int,Geod,1972,1979,7.0,11,maybe,,No,No
+San Andreas,-121.52,36.8367,San Juan,14,0.4,Int,AA,1968,1977,9.0,3,,,No,Yes
+Rodgers Creek,-122.4469,38.0987,San Pablo,1.4,1.1,Int,Trilat,1978,1988,10.0,7,,,No,Yes
+San Andreas,-116.964,34.058,Santa Ana wash,0,0.4,Int,AA,1970,1983,13.0,12,,,No,Yes
+San Andreas,-122.79796,38.04398,SAPR (Point Reyes),0,0.1,Int,AA,1985,2018,33.6,14,,,Yes,Yes
+San Andreas,-122.26154,37.417,SARD (Roberta Dr),0.5,0.1,Int,AA,1989,2018,28.4,14,,,Yes,Yes
+San Andreas,-121.5728,36.87453,SASR (Searle Rd),1,0.2,Int,AA,2002,2018,15.8,14,,,Yes,Yes
+San Andreas,-121.23,36.65,SCR,13.8,0.266,Int,CM,1970,1976,6.0,2,,,No,Yes
+San Andreas,-122.4646,37.6443,SF Penn,-0.3,0.02,Int,AA,1980,1994,14.0,5,,,No,Yes
+San Andreas,-122.2605,37.4171,SF Penn,0.3,0.1,Int,AA,1989,2000,11.0,5,,,No,Yes
+San Gregorio,-122.37294,37.2545,SGPR (Pescadero Rd),0.9,0.1,Int,AA,1982,2018,35.9,14,,,Yes,Yes
+San Gregorio,-122.49664,37.50369,"SGWP (West Point Ave), Seal Cove",0.1,0.1,Int,AA,1979,2018,38.8,14,,,Yes,Yes
+San Andreas,-121.5851,36.8827,SJB?,0.1,0.1,Int,AA,1989,1998,9.0,5,maybe,,No,No
+San Andreas,-121.5207,36.8351,SJB?,10.4,0.2,Int,AA,1990,2001,11.0,5,maybe,,No,No
+San Andreas,-121.5,36.82,SJN,8.1,0.266,Int,CM,1969,1976,7.0,2,,,No,Yes
+San Andreas,-120.6283,36.065,Slack Canyon,21.2,0.365,Int,AA,1968,2004,36.0,22,,,Yes,Yes
+San Andreas,-120.6283,36.065,Slack Canyon,20.8,1.0,Int,CM,1969,2004,35.0,22,,,No,Yes
+San Andreas,-120.628,36.065,Slack Cny,24.9,1,Int,GPS,1968,2003,35.0,21,,,No,Yes
+San Andreas,-120.969,36.3883,Smith Ranch,23.2,1,Int,GPS,1967,2003,36.0,21,,,No,Yes
+Green Valley,-115.6633,32.9045,Superstition Hills,0.5,0.266,Int,CM,1968,1979,,12,,,Yes,Yes
+Green Valley,-115.769,32.984,Superstition Hills,2.786,0.4,Int,SAR,2006,2010,3.5,23,,,No,No
+Green Valley,-115.692,32.923,Superstition Hills,1.066,2.93,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-120.425,35.902,Taylor Ranch,9.3,0.266,Int,CM,1985,2004,19.0,22,,,No,Yes
+Imperial,-115.356,32.683,Tuttle Ranch,1.4,0.266,Int,CM,1975,1979,,12,,,No,Yes
+San Andreas,-120.1478,35.5957,TWR (Twisselman Ranch),-0.71,0.07,Int,CM,1979.9,1992.2,12.3,17,,,Yes,Yes
+San Andreas,-118.11,34.55,Una Lake,0,0.5,Int,AA,1970,1984,14.0,12,,,No,Yes
+Calaveras,-121.9598,37.7458,Upper North,0.2,0.1,Int,AA,1980,1989,9.0,5,,,No,Yes
+Calaveras,-121.8642,37.581,Veras,2.9,0.3,Int,Geod,1965,1976,11.0,16,,,No,Yes
+San Andreas,-120.3071,35.7566,Water tank,4,0.4,Int,AA,1966,1979,13.0,3,,,No,Yes
+San Andreas,-117.276,34.174,Waterman,0,1,Int,AA,1970,1983,13.0,12,,,No,Yes
+San Andreas,-121.185,36.595,Willow Creek,22.7,0.4,Int,AA,1972,1977,5.0,3,,,No,Yes
+San Andreas,-121.163,36.5735,"Wire, Melendy",8,0.2,Int,Cult,1951,1966,15.0,1,,,No,Yes
+Imperial,-115.51,32.862,Worthington Road,13,8,Int,AA,1974,1979,,12,,,Yes,Yes
+San Andreas,-120.42,35.88,XDR2,8.3,0.266,Int,CM,1972,1987,15.0,2,,,No,Yes
+San Andreas,-120.35,35.82,XGH1,3.25,0.266,Int,CM,1972,1987,15.0,2,,,No,Yes
+San Andreas,-121.4225,36.7718,XHR (Harris Ranch),12.94,0.37,Int,CM,1985.3,2020.7,35.4,17,,,Yes,Yes
+San Andreas,-120.4198,35.8625,XHS (Hearst Southwest),-0.72,0.07,Int,CM,1987.5,2010.4,22.9,17,Probably,,Yes,No
+San Andreas,-120.7976,36.217,XMP (Monarch Peak),14.71,0.3,Int,CM,1969.4,1997.5,28.1,17,,,Yes,Yes
+San Andreas,-121.187,36.5933,XMR (Melendy Ranch),17.39,0.2,Int,CM,1969.4,2020.7,51.3,17,,,Yes,Yes
+San Andreas,-119.6911,35.149,XPH (Panorama Hills),-0.09,0.01,Int,CM,1977.7,1991.9,14.2,17,,,Yes,Yes
+San Andreas,-120.4601,35.9052,XRS (Roberson Southwest),-0.01,0.03,Int,CM,1987.4,2005.7,18.3,17,Probably,,Yes,No
+San Andreas,-120.63,36.07,XSC1,22.1,Undf.,Int,CM,1972,1987,15.0,2,maybe,,No,No
+San Andreas,-121.5214,36.836,XSJ (San Juan Bautista),8.57,0.23,Int,CM,1969.4,2016.9,47.5,17,,,Yes,Yes
+Green Valley,-122.1495,38.1986,,4.4,0.1,Int,AA,1984,2001,17.0,5,,,No,Yes
+Hayward,-122.2506,37.8719,,4.6,0.1,Int,AA,1966.912,1999.658,32.7,8,,,No,Yes
+Hayward,-122.0899,37.6798,,5,0.1,Int,AA,1967.167,1999.83,32.7,8,,,No,Yes
+Hayward,-122.3546,37.9891,,5,0.1,Int,AA,1968.333,1993.058,24.7,8,,,No,Yes
+Hayward,-122.1975,37.8101,,3.7,0.1,Int,AA,1970.29,1999.696,29.4,8,,,No,Yes
+Hayward,-122.2304,37.8484,,3.8,0.1,Int,AA,1974.258,1999.696,25.4,8,,,No,Yes
+Hayward,-122.0804,37.6703,,4.4,0.1,Int,AA,1980.478,1999.83,19.4,8,,,No,Yes
+Hayward,-122.0008,37.5925,,5.1,0.2,Int,AA,1979.729,1999.83,20.1,8,,,No,Yes
+Hayward,-122.3379,37.969,,4.8,0.2,Int,AA,1980.609,1999.89,19.3,8,,,No,Yes
+Hayward,-122.209,37.8264,,3.7,0.2,Int,AA,1993.112,1999.89,6.8,8,,,No,Yes
+Hayward,-122.1882,37.7951,,3.6,0.3,Int,AA,1974.274,1999.66,25.4,8,,,No,Yes
+Hayward,-121.9607,37.5422,,5.6,0.3,Int,AA,1979.726,1989.808,10.1,8,,,No,Yes
+Hayward,-122.2918,37.9246,,4.4,0.3,Int,AA,1989.748,1999.868,10.1,8,,,No,Yes
+Hayward,-122.3083,37.9425,,4.9,0.4,Int,AA,1989.748,1999.677,9.9,8,,,No,Yes
+Hayward,-122.1504,37.7546,,3.7,0.5,Int,AA,1989.693,1999.888,10.2,8,,,No,Yes
+Hayward,-122.1285,37.7319,,5.9,0.5,Int,AA,1993.389,1999.679,6.3,8,,,No,Yes
+Hayward,-122.0579,37.6481,,6.7,0.5,Int,AA,1994.589,1999.677,5.1,8,,,No,Yes
+Hayward,-122.0727,37.6627,,4,0.6,Int,AA,1977.074,1999.677,22.6,8,,,No,Yes
+Hayward,-122.0222,37.6143,,5.1,0.7,Int,AA,1994.592,1999.696,5.1,8,,,No,Yes
+Hayward,-122.1045,37.695,,5.5,0.9,Int,AA,1992.62,1999.66,7.0,8,,,No,Yes
+Hayward,-121.9797,37.5664,,6,1.3,Int,AA,1983.759,1988.847,5.1,8,,,No,Yes
+Hayward,-121.9316,37.5097,,8.2,0.4,Int,Cult,1968.7,1982.3,13.6,8,,,No,Yes
+Hayward,-121.9548,37.5361,,8.9,0.6,Int,Cult,1940.3,1987.636,47.3,8,,,No,Yes
+Hayward,-121.9343,37.5125,,9.5,0.6,Int,Cult,1967.7,1987.636,19.9,8,,,No,Yes
+Bartlett Springs,-122.768,39.234,,0.268,0.93,Int,SAR,2006,2010,3.5,23,,,No,No
+Bartlett Springs,-122.532,39.038,,0.517,0.962,Int,SAR,2006,2010,3.5,23,,,No,No
+Bartlett Springs,-122.833,39.304,,-0.428,1.171,Int,SAR,2006,2010,3.5,23,,,No,No
+Bartlett Springs,-122.623,39.107,,1.776,1.369,Int,SAR,2006,2010,3.5,23,,,No,No
+Bartlett Springs,-122.899,39.378,,-2.381,1.95,Int,SAR,2006,2010,3.5,23,,,No,No
+Bartlett Springs,-122.959,39.454,,-0.123,2.04,Int,SAR,2006,2010,3.5,23,,,No,No
+Bartlett Springs,-122.692,39.17,,-4.98,2.055,Int,SAR,2006,2010,3.5,23,,,No,No
+Bartlett Springs,-123.02,39.533,,6.946,4.026,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.266,36.697,,-0.533,1.552,Int,SAR,2006,2010,3.5,23,Yes,,No,No
+Calaveras,-121.656,37.238,,-3.419,1.843,Int,SAR,2006,2010,3.5,23,Yes,,No,No
+Calaveras,-121.902,37.64,,-2.585,2.477,Int,SAR,2006,2010,3.5,23,Yes,,No,No
+Calaveras,-121.712,37.315,,-3.855,4.634,Int,SAR,2006,2010,3.5,23,Yes,,No,No
+Calaveras,-121.819,37.473,,-4.378,5.807,Int,SAR,2006,2010,3.5,23,Yes,,No,No
+Calaveras,-121.598,37.161,,9.22,1.458,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.339,36.766,,0.427,1.598,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.768,37.392,,4.576,1.833,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.945,37.721,,4.922,1.95,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.396,36.842,,5.19,2.051,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.189,36.628,,7.42,2.063,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.483,37.005,,7.157,2.284,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.538,37.084,,25.304,2.426,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.859,37.557,,14.671,6.272,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.436,36.924,,8.88,11.067,Int,SAR,2006,2010,3.5,23,,,No,No
+Concord,-122.036,37.972,,1.738,5.099,Int,SAR,2006,2010,3.5,23,,,No,No
+Garlock,-117.456,35.504,,-0.32,0.055,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.112,35.19,,-0.025,0.077,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-116.81,35.596,,-0.088,0.091,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-116.59,35.591,,0.068,0.092,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-116.92,35.604,,-0.36,0.097,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-117.665,35.449,,0.548,0.15,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-117.349,35.526,,0.302,0.187,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-117.136,35.575,,0.516,0.19,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-117.029,35.595,,-0.702,0.21,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-117.242,35.551,,1.583,0.219,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-117.561,35.477,,0.467,0.252,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-117.766,35.412,,0.042,0.255,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.203,35.145,,0.518,0.261,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.578,34.965,,-0.619,0.305,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.296,35.098,,-1.688,0.419,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.386,35.044,,-0.349,0.477,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-116.7,35.593,,-0.869,0.483,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.867,34.826,,0.448,0.532,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.771,34.881,,0.954,0.543,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.676,34.924,,0.366,0.572,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.025,35.246,,0.073,0.593,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-118.479,34.995,,1.717,0.609,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-117.86,35.368,,0.255,1.099,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Garlock,-117.944,35.309,,-2.065,2.262,Int,SAR,2006,2010,3.5,23,,,Yes,No
+Hayward,-122.21,37.821,,3.554,0.297,Int,SAR,2006,2010,3.5,23,,,No,No
+Hayward,-122.083,37.673,,2.907,0.528,Int,SAR,2006,2010,3.5,23,,,No,No
+Hayward,-122.143,37.746,,1.291,0.586,Int,SAR,2006,2010,3.5,23,,,No,No
+Hayward,-122.27,37.896,,4.91,0.718,Int,SAR,2006,2010,3.5,23,,,No,No
+Hayward,-122.012,37.601,,2.505,0.946,Int,SAR,2006,2010,3.5,23,,,No,No
+Hayward,-121.949,37.526,,5.708,1.137,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.191,39.181,,3.014,1.027,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-122.993,38.859,,-1.683,1.067,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.143,39.1,,2.749,1.301,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.557,39.744,,-0.966,1.532,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.095,39.018,,2.445,1.547,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.502,39.665,,0.2,1.696,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-122.922,38.786,,4.794,1.988,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.305,39.339,,0.846,2.7,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.248,39.26,,-7.65,2.828,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.451,39.584,,-13.417,3.456,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.048,38.937,,8.481,5.452,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.353,39.42,,-6.367,6.17,Int,SAR,2006,2010,3.5,23,,,No,No
+Maacama,-123.401,39.502,,-8.432,6.456,Int,SAR,2006,2010,3.5,23,,,No,No
+Rodgers Creek,-122.712,38.465,,3.222,1.252,Int,SAR,2006,2010,3.5,23,,,No,No
+Rodgers Creek,-122.594,38.313,,-3.24,1.706,Int,SAR,2006,2010,3.5,23,,,No,No
+Rodgers Creek,-122.52,38.242,,-2.919,1.955,Int,SAR,2006,2010,3.5,23,,,No,No
+Rodgers Creek,-122.654,38.387,,2.083,2.017,Int,SAR,2006,2010,3.5,23,,,No,No
+Rodgers Creek,-122.449,38.17,,3.851,3.335,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-120.935,36.346,,18.891,1.152,Int,SAR,2006,2010,3.5,23,maybe,,No,No
+San Andreas,-120.862,36.28,,24.352,1.965,Int,SAR,2006,2010,3.5,23,maybe,,No,No
+San Andreas,-120.645,36.077,,26.096,2.101,Int,SAR,2006,2010,3.5,23,maybe,,No,No
+San Andreas,-121.006,36.419,,20.71,3.553,Int,SAR,2006,2010,3.5,23,maybe,,No,No
+San Andreas,-120.79,36.206,,19.429,3.77,Int,SAR,2006,2010,3.5,23,maybe,,No,No
+San Andreas,-120.719,36.146,,28.821,3.81,Int,SAR,2006,2010,3.5,23,maybe,,No,No
+San Andreas,-120.294,35.738,,2.143,0.963,Int,SAR,2006,2010,3.5,23,Probably,,No,No
+San Andreas,-120.418,35.88,,14.159,1.672,Int,SAR,2006,2010,3.5,23,Probably,,No,No
+San Andreas,-120.493,35.948,,26.732,1.783,Int,SAR,2006,2010,3.5,23,Probably,,No,No
+San Andreas,-120.569,36.011,,30.67,3.531,Int,SAR,2006,2010,3.5,23,Probably,,No,No
+San Andreas,-120.355,35.823,,-5.286,3.173,Int,SAR,2006,2010,3.5,23,Yes,,No,No
+San Andreas,-117.888,34.457,,-0.901,0.103,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.255,33.796,,0.139,0.138,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.985,34.498,,0.056,0.241,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.026,33.608,,4.076,0.241,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.492,34.998,,-1.631,0.274,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.336,33.856,,0.876,0.298,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.181,34.578,,-0.798,0.304,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.223,34.151,,0.013,0.326,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.998,34.824,,-1.012,0.345,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.6,34.013,,-0.598,0.393,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.422,33.907,,0.939,0.396,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.508,33.962,,-0.618,0.41,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.211,34.86,,0.298,0.413,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.105,34.846,,1.344,0.444,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.319,34.194,,0.346,0.505,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.082,34.539,,-1.64,0.509,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-120.224,35.667,,1.856,0.522,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.642,36.919,,2.192,0.524,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.121,34.124,,0.081,0.537,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.655,35.12,,-0.175,0.565,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.411,34.245,,0.116,0.59,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.791,34.418,,-2.074,0.611,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-115.799,33.416,,4.074,0.629,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.102,33.669,,4.762,0.642,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.789,34.777,,-1.425,0.675,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.893,34.808,,-1.755,0.681,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.701,34.042,,0.624,0.691,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-115.724,33.349,,0.025,0.73,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.405,34.941,,-0.85,0.765,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-115.951,33.542,,4.299,0.802,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.575,35.057,,-1.647,0.844,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-120.152,35.6,,-4.464,0.845,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.877,35.319,,0.609,0.857,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.312,34.895,,2.101,0.872,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.28,34.616,,-1.602,0.884,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.946,35.387,,0.8,0.885,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.48,34.688,,-5.093,0.956,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.685,34.749,,-0.701,0.982,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-120.081,35.531,,0.338,0.987,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.582,34.719,,-2.272,1.089,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.178,33.734,,4.005,1.11,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-118.379,34.652,,-1.176,1.137,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.724,36.981,,0.343,1.174,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.732,35.183,,0.602,1.22,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-115.877,33.475,,0.018,1.242,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-123.322,38.603,,-4.39,1.316,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.806,34.063,,1.089,1.413,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-123.53,38.817,,0.242,1.453,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.891,37.098,,-1.91,1.456,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.223,36.623,,11.006,1.55,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.384,36.748,,15.479,1.59,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-116.912,34.078,,2.02,1.637,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.694,34.378,,-1.187,1.673,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.471,36.802,,10.286,1.826,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.503,34.292,,-1.904,1.885,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.017,34.101,,-0.404,1.915,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-123.25,38.532,,1.216,2.051,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.557,36.862,,4.543,2.084,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.149,36.556,,23.446,2.106,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-120.013,35.461,,-0.593,2.139,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.975,37.16,,-4.693,2.182,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-123.462,38.743,,-8.131,2.212,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-123.596,38.892,,-1.14,2.282,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-119.805,35.25,,0.016,2.546,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.077,36.489,,22.461,2.733,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-122.715,37.951,,-1.183,2.809,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-123.041,38.319,,0.751,2.882,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-122.206,37.357,,-2.632,3.124,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-123.661,38.965,,-3.385,3.239,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-121.301,36.689,,7.194,3.438,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-123.392,38.673,,-8.293,3.702,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-122.651,37.877,,3.793,3.884,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-122.846,38.098,,9.042,5.003,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-117.597,34.339,,-5.121,5.177,Int,SAR,2006,2010,3.5,23,,,No,No
+San Andreas,-122.342,37.5,,-3.671,5.213,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.453,33.407,,-0.659,0.26,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.217,33.222,,0.186,0.398,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.588,33.538,,0.709,0.569,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.516,33.473,,-1.115,0.675,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-117.215,34.001,,1.442,0.678,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-117.287,34.067,,0.61,0.69,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.296,33.282,,-2.118,0.745,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.371,33.346,,-0.184,0.806,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.056,33.099,,8.579,0.896,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.763,33.647,,1.189,1.053,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.952,33.753,,2.23,1.063,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.143,33.164,,2.212,1.18,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-117.602,34.311,,-0.308,1.204,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.679,33.594,,0.317,1.258,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-117.135,33.938,,-5.653,1.462,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.855,33.698,,0.806,1.565,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.004,33.033,,-1.629,1.614,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-117.424,34.198,,-0.316,2.192,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-117.518,34.253,,-0.875,2.281,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-117.358,34.135,,6.505,2.733,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-116.966,33.815,,-12.948,2.936,Int,SAR,2006,2010,3.5,23,,,No,No
+San Jacinto,-117.055,33.877,,0.362,3.404,Int,SAR,2006,2010,3.5,23,,,No,No
+Calaveras,-121.7139,37.3417,Grant Ranch,9.4,0.4,Int+ Aft,Geod,1977,1984,7.0,15,Yes,Yes,No,No
+Calaveras,-121.4053,36.8496,C-SA Junct,6.4,0.2,Int+ Aft,AA,1979,1989,10.0,5,Yes,Yes,No,No
+Calaveras,-121.4128,36.8496,C-SA Junct,12.2,0.2,Int+ Aft,AA,1979,1989,10.0,5,Yes,Yes,No,No
+San Andreas,-120.2819,35.7243,C46 (Hwy 46),4.78,0.06,Int+ Aft,CM,2004.7,2020.7,16,17,maybe,,Yes,No
+San Jacinto,-116.05,33.09,Coyote Creek (BW),5.2,3,Int+ Aft,AA,1971,1984,,12,Yes,Yes,No,No
+San Andreas,-120.4217,35.885,Durham Ranch,13.3,,Int+ Aft,AA,2004,,,22,Yes,Yes,No,No
+San Andreas,-120.7567,36.18,Mee Ranch,23,,Int+ Aft,AA,2004,,,22,Yes,Yes,Yes,No
+San Andreas,-120.6283,36.065,Slack Canyon,23,,Int+ Aft,AA,2004,,,22,Yes,Yes,No,No
+Calaveras,-121.4128,36.8699,Wright Rd,13,Undf.,Int+ Aft,CM,1971,1983,12.0,19,Yes,Yes,No,No
+San Andreas,-116.156,33.715,Dillon road,2,1,Int+ Tran,AA,1970,1984,14.0,12,Yes,Yes,No,No
+Imperial,-115.488,32.837,S80,5.4,Undf.,Int+ Tran,AA,1967,1978,,12,Yes,Yes,No,No
+Rodgers Creek,-122.874368,38.654848,"A, Figure 2 / Table 1",-1.6,1.70,,SAR,2003,2010,7.0,6,,,Yes,Yes
+Rodgers Creek,-122.862214,38.633837,"B, Figure 2 / Table 1",-0.6,1.25,,SAR,2003,2010,7.0,6,,,Yes,Yes
+Rodgers Creek,-122.841389,38.614174,"C, Figure 2 / Table 1",2.4,1,,SAR,2003,2010,7.0,6,,,Yes,Yes
+San Andreas,-115.7985,33.4147,coDU (Durmid Hill),1.8,0.266,,CM,2004,2008,4.0,4,,,Yes,Yes
+San Andreas,-115.7985,33.4147,coFE (Ferrum),1.9,0.266,,CM,2004,2011,7.0,4,,,Yes,Yes
+San Andreas,-115.9388,33.5307,coNS (North Shore),0.1,0.266,,CM,2010,2011,0.6,4,,,Yes,Yes
+Imperial,-115.4485,32.7812,coRR (Ross Road),1.3,0.266,,CM,2010,2011,0.6,4,,,Yes,Yes
+Rodgers Creek,-122.82062,38.60056,"D, Figure 2 / Table 1",0.8,1.55,,SAR,2003,2010,7.0,6,,,Yes,Yes
+San Andreas,-120.9017,36.3167,DeAlvarez Ranch,24,0.365,,AA,1970,2004,34.0,22,,,No,Yes
+Rodgers Creek,-122.801549,38.584081,"E, Figure 2 / Table 1",2.6,1.3,,SAR,2003,2010,7.0,6,,,Yes,Yes
+Rodgers Creek,-122.787193,38.56188,"F, Figure 2 / Table 1",2.7,0.8,,SAR,2003,2010,7.0,6,,,Yes,Yes
+Rodgers Creek,-122.772712,38.544445,"G, Figure 2 / Table 1",3,1,,SAR,2003,2010,7.0,6,,,Yes,Yes
+Rodgers Creek,-122.760165,38.524578,"H, Figure 2 / Table 1",2.6,1.1,,SAR,2003,2010,7.0,6,,,Yes,Yes
+Rodgers Creek,-122.741089,38.50636,"I, Figure 2 / Table 1",1.5,1.15,,SAR,2003,2010,7.0,6,,,Yes,Yes
+Rodgers Creek,-122.725254,38.490396,"J, Figure 2 / Table 1",0.5,0.65,,SAR,2003,2010,7.0,6,,,Yes,Yes
+Rodgers Creek,-122.706356,38.468426,"K, Figure 2 / Table 1",1.9,0.75,,SAR,2003,2010,7.0,6,,,Yes,Yes
+Rodgers Creek,-122.697032,38.443103,"L, Figure 2 / Table 1",6.7,0.7,,SAR,2003,2010,7.0,6,,,Yes,Yes
+San Andreas,-120.7983,36.2133,Monarch Peak,17.4,0.365,,AA,1968,2004,36.0,22,,,No,Yes
+San Andreas,-120.9693,36.3833,Smith Ranch,26.2,0.365,,AA,1970,2003,33.0,22,,,No,Yes
+San Andreas,-121.185,36.595,Willow Creek,20.2,0.365,,AA,1967,2004,37.0,22,,,No,Yes
+San Andreas,-115.78997,33.40979,,2.64,0.2,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.01775,33.60287,,2.74,0.2,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.02601,33.61,,3.24,0.2,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.05922,33.63520,,3.54,0.2,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.78143,33.40381,,2.41,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.82268,33.43332,,2.71,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.83100,33.43928,,2.75,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.83931,33.44547,,2.76,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.02179,33.60638,,2.87,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.08266,33.65270,,3.54,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.86304,33.46395,,3.58,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.07413,33.64605,,3.63,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.05126,33.62913,,3.65,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.03439,33.6162,,3.65,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.04252,33.62227,,3.71,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.06677,33.64067,,3.80,0.21,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.97987,33.5694,,1.85,0.22,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.09804,33.66574,,2.60,0.22,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.80615,33.42129,,2.96,0.22,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.85482,33.45740,,2.99,0.22,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.81382,33.42694,,2.99,0.22,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.84735,33.45149,,3.00,0.22,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.09087,33.65930,,3.39,0.22,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.87104,33.46981,,4.11,0.22,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.97314,33.56303,,1.37,0.23,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.98769,33.57653,,2.25,0.23,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.77376,33.39805,,2.30,0.23,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.79806,33.41540,,2.75,0.23,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.01033,33.59644,,2.48,0.24,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.00249,33.58965,,2.71,0.24,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.9952,33.58334,,2.81,0.24,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-116.10595,33.67285,,1.48,0.25,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.87915,33.47572,,4.51,0.25,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.75090,33.37978,,1.46,0.27,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.88699,33.48245,,5.22,0.27,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.96583,33.55612,,1.26,0.29,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.75826,33.38584,,2.31,0.29,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.76585,33.39206,,2.33,0.29,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.74421,33.37293,,1.04,0.3,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.73021,33.35769,,1.89,0.3,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.89359,33.48822,,5.70,0.3,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.95834,33.54909,,1.22,0.34,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.73775,33.36631,,1.76,0.35,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.95153,33.54270,,1.94,0.42,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.94434,33.53602,,1.09,0.46,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.90102,33.49523,,4.93,0.51,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.92984,33.52248,,2.62,0.55,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.93674,33.52896,,2.05,0.59,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.92218,33.51528,,1.42,0.62,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.90826,33.50210,,3.53,0.63,,SAR,2003,2010,7.0,9,,,Yes,Yes
+San Andreas,-115.91528,33.50874,,1.60,0.98,,SAR,2003,2010,7.0,9,,,Yes,Yes
+Imperial,-115.4596533,32.79435922,,6.89,1.25,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4789473,32.81548836,,9.07,1.26,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4478677,32.77901626,,7.18,1.27,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.471773,32.80899294,,9.59,1.27,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.5539938,32.91285394,,0.89,1.28,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4657131,32.80167608,,7.22,1.29,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4042823,32.727629,,4.81,1.31,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.2995799,32.61461414,,1.94,1.33,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.441906,32.77147265,,6.52,1.33,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4537605,32.78668774,,6.7,1.33,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3661942,32.68428346,,2.4,1.34,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3596705,32.67718847,,0.38,1.35,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3394835,32.65611883,,0,1.36,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4106221,32.73492988,,2.89,1.36,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3462262,32.66310212,,0,1.37,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3064742,32.6216197,,1,1.37,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3529484,32.67014529,,0,1.4,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3327409,32.64913554,,0.16,1.4,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4237231,32.74931197,,4.64,1.4,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3979425,32.72032811,,5,1.4,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4171726,32.74212093,,4.44,1.41,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.2926855,32.60760857,,0,1.42,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3260154,32.64208732,,0.2,1.42,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4359444,32.76392904,,6.4,1.43,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.31929,32.6350391,,0,1.44,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3128821,32.6283294,,0.26,1.44,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.549797,32.9044677,,1.72,1.45,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3915743,32.71286324,,3.79,1.48,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.5456001,32.89608147,,1.33,1.49,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.378962,32.69838841,,3.83,1.51,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.540472,32.88844736,,1.11,1.52,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.3852061,32.70539837,,3.69,1.52,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.372718,32.69137845,,4.11,1.57,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4298338,32.7566205,,6.46,1.62,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.5132502,32.84946939,,0,1.63,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.5353439,32.88081326,,0.43,1.63,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.5291685,32.8734653,,0.5,1.67,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.4861217,32.82198378,,3.87,1.72,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.5181217,32.85779336,,0.42,1.73,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.5229932,32.86611734,,0.98,1.73,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.493916,32.82819958,,0,1.74,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.5074802,32.84194239,,0,1.83,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Imperial,-115.5017102,32.83441538,,0,1.88,,SAR,2003,2010,7.0,10,,Yes,Yes,Yes
+Bartlett Springs,-122.623,39.107,,-1.5841,0.4599,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Bartlett Springs,-122.532,39.038,,-1.3838,0.497,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Bartlett Springs,-122.833,39.304,,1.6044,0.5265,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Bartlett Springs,-122.692,39.17,,2.5788,0.5594,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Bartlett Springs,-122.899,39.378,,4.9095,0.573,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Bartlett Springs,-122.768,39.234,,4.2211,0.5908,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Bartlett Springs,-122.959,39.454,,-2.5452,1.194,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Bartlett Springs,-123.02,39.533,,-4.5479,1.3917,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.396,36.842,,2.3896,0.4746,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.339,36.766,,4.3251,0.5068,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.100108,36.552216,,8.4862,0.6276,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.768,37.392,,2.3112,0.6625,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.656,37.238,,9.4786,0.6662,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.945,37.721,,0.0396,0.6789,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.538,37.084,,1.7357,0.6797,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.022388,36.48957,,1.6076,0.7505,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.712,37.315,,8.1981,0.8203,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.598,37.161,,3.7819,0.8281,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.189,36.628,,2.3786,0.8293,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.266,36.697,,3.6884,0.9128,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.483,37.005,,2.1949,0.9602,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.819,37.473,,5.7199,1.2387,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.859,37.557,,7.4259,1.4997,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.436,36.924,,0.7772,1.9916,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.902,37.64,,2.793,2.0223,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Concord,-122.036,37.972,,3.0782,0.4118,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Concord,-122.005004,37.91965,,0.8179,0.9632,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.456,35.504,,0.1964,0.0549,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.665,35.449,,-0.0212,0.0728,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.349,35.526,,0.0476,0.0798,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.029,35.595,,-0.0561,0.0889,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-116.92,35.604,,-0.5412,0.0908,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.242,35.551,,0.1037,0.0909,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.112,35.19,,-0.1244,0.1261,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.766,35.412,,-0.1602,0.1322,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.203,35.145,,0.0209,0.1545,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.386,35.044,,-0.4339,0.1664,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.771,34.881,,-0.2378,0.1738,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.867,34.826,,-0.3374,0.1826,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.479,34.995,,-0.2148,0.1885,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.136,35.575,,0.0398,0.1944,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-116.81,35.596,,-0.5341,0.2392,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.676,34.924,,-0.9484,0.2433,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.578,34.965,,-0.9784,0.2677,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-116.7,35.593,,0.0782,0.2724,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-116.59,35.591,,-0.2137,0.2769,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.025,35.246,,0.1107,0.2858,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-118.296,35.098,,-0.5161,0.3124,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.86,35.368,,-1.1878,1.407,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.944,35.309,,-0.9282,1.8892,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Garlock,-117.561,35.477,,-1.3092,5.0448,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Hayward,-122.083,37.673,,5.1159,0.22,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Hayward,-121.949,37.526,,6.5114,0.3174,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Hayward,-122.337228,37.966515,,4.3791,0.3974,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Hayward,-122.012,37.601,,3.7808,0.4705,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Hayward,-122.21,37.821,,2.1939,0.5019,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Hayward,-122.143,37.746,,2.8366,0.5039,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Hayward,-122.27,37.896,,1.2211,1.1837,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.143,39.1,,0.9917,0.6521,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.248,39.26,,-0.0561,0.6623,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-122.993,38.859,,-0.6827,0.7253,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.048,38.937,,0.8452,0.7293,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.191,39.181,,3.135,0.7737,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-122.922,38.786,,3.6584,0.8482,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.502,39.665,,3.0842,0.8857,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.095,39.018,,-4.235,1.0767,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.305,39.339,,3.9904,1.1391,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.353,39.42,,3.0471,1.3239,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.451,39.584,,-6.6378,1.35,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.557,39.744,,4.8982,1.8781,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Maacama,-123.401,39.502,,-2.6464,2.0999,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Rodgers Creek,-122.712,38.465,,1.5032,0.2542,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Rodgers Creek,-122.594,38.313,,0.1724,0.548,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Rodgers Creek,-122.52,38.242,,-1.0255,0.823,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Rodgers Creek,-122.654,38.387,,0.9134,0.8828,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Rodgers Creek,-122.449,38.17,,0.3009,1.0958,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.255,33.796,,0.3466,0.0736,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.336,33.856,,0.6297,0.0863,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.508,33.962,,0.0317,0.0884,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.985,34.498,,0.4955,0.0987,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.082,34.539,,0.4178,0.112,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.805,35.25,,-0.4172,0.1131,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.6,34.013,,-0.5683,0.1143,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.701,34.042,,-0.4397,0.1149,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.732,35.183,,0.1081,0.1171,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.888,34.457,,0.8078,0.1215,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.181,34.578,,1.797,0.1247,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-115.799,33.416,,1.1569,0.1293,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.026,33.608,,1.8423,0.1343,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.575,35.057,,0.7064,0.1377,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.48,34.688,,0.4632,0.1465,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.379,34.652,,-0.2016,0.1473,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.893,34.808,,-0.597,0.1487,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.422,33.907,,0.0873,0.1606,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.791,34.418,,-0.6557,0.1617,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.582,34.719,,0.3498,0.169,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.685,34.749,,0.3087,0.1706,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.789,34.777,,0.083,0.1754,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.28,34.616,,0.9462,0.1783,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.223,34.151,,-0.6729,0.1804,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.405,34.941,,0.236,0.1915,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.655,35.12,,-0.4273,0.1921,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.492,34.998,,1.3091,0.1973,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.319,34.194,,-0.1639,0.1999,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.102,33.669,,0.3283,0.201,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.877,35.319,,-0.3553,0.2032,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.178,33.734,,2.3446,0.2104,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-118.998,34.824,,-0.5067,0.2119,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.946,35.387,,1.0361,0.2384,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.912,34.078,,0.8498,0.2486,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.211,34.86,,0.0422,0.251,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.105,34.846,,0.3365,0.2523,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.121,34.124,,0.5584,0.2654,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-119.312,34.895,,1.6707,0.2706,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-115.951,33.542,,2.6933,0.2727,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.017,34.101,,0.2931,0.2749,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.411,34.245,,1.0322,0.2797,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.503,34.292,,-0.917,0.289,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.224,35.667,,2.6503,0.3028,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.597,34.339,,-1.262,0.3251,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.418,35.88,,5.6935,0.3278,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.152,35.6,,0.8363,0.3367,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.013,35.461,,1.0829,0.3452,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-116.806,34.063,,-0.918,0.3468,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-115.877,33.475,,3.2455,0.354,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-117.694,34.378,,-0.8854,0.3757,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.493,35.948,,12.4006,0.458,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.719,36.146,,27.8814,0.4978,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.223,36.623,,15.1094,0.5239,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.645,36.077,,23.9505,0.5276,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.077,36.489,,12.4437,0.62,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.149,36.556,,18.6933,0.7182,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.569,36.011,,15.3559,0.7202,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.384,36.748,,14.4209,0.729,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.79,36.206,,33.2104,0.7453,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.935,36.346,,26.6282,0.7638,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.471,36.802,,8.2693,0.768,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.294,35.738,,6.402,0.7834,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.081,35.531,,2.0966,0.8241,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.975,37.16,,1.8885,0.8382,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.301,36.689,,13.4579,0.8382,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.862,36.28,,22.6268,0.8842,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-123.041,38.319,,2.6348,0.9306,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-122.206,37.357,,2.8922,0.9357,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-122.846,38.098,,3.308,0.9536,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.006,36.419,,18.0411,0.9657,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.642,36.919,,2.2358,0.9683,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-115.724,33.349,,-1.1266,1.0036,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.724,36.981,,2.562,1.0715,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-120.355,35.823,,3.6329,1.0911,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.557,36.862,,2.7468,1.2227,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-122.342,37.5,,1.2243,1.2696,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-121.891,37.098,,1.6718,1.47,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Andreas,-122.715,37.951,,-3.1698,2.2704,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.453,33.407,,0.1419,0.113,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.217,33.222,,0.1299,0.12,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.516,33.473,,0.3212,0.1338,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.679,33.594,,0.377,0.1412,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.763,33.647,,0.017,0.1436,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.588,33.538,,0.1496,0.1521,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-117.215,34.001,,1.6703,0.1977,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.056,33.099,,0.4644,0.1998,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.296,33.282,,0.7767,0.2068,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.143,33.164,,0.5486,0.2126,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.855,33.698,,1.3847,0.2438,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-117.358,34.135,,0.1398,0.2711,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-117.424,34.198,,1.0125,0.2762,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.004,33.033,,0.1384,0.2884,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-117.518,34.253,,0.5204,0.3084,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.371,33.346,,0.152,0.3246,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.952,33.753,,2.4895,0.4308,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-117.602,34.311,,2.911,0.4675,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-117.287,34.067,,0.7469,0.5752,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-117.055,33.877,,0.6216,0.6382,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-117.135,33.938,,0.5105,0.7634,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+San Jacinto,-116.966,33.815,,1.6271,1.0947,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Superstition Hills,-115.807421,33.007871,,6.1085,0.1232,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Superstition Hills,-115.769,32.984,,7.2451,0.1333,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Superstition Hills,-115.74209,32.961994,,6.0643,0.148,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Superstition Hills,-115.692,32.923,,1.7446,0.4658,,SAR,2015,2019,4-4.5,18,,,Yes,Yes
+Calaveras,-121.1195,36.5682,,20.81,0.82,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.1265,36.5752,,17.61,0.78,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.1336,36.5822,,22.81,0.69,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.1407,36.5893,,11.85,0.71,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.1476,36.5964,,15.03,0.73,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.1546,36.6035,,20.64,0.79,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.163,36.6095,,8.5,0.81,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.1714,36.6155,,11.78,0.82,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.1798,36.6215,,9.61,0.81,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.1868,36.6285,,18.96,0.85,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.1933,36.636,,19,0.81,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2006,36.6428,,10.53,0.69,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.207,36.6504,,17.15,0.75,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2135,36.6579,,14.26,0.9,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2218,36.6639,,21.68,0.7,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2302,36.6699,,20.07,0.82,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.238,36.6764,,13.77,0.86,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2454,36.6831,,16.23,0.88,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2522,36.6904,,17.71,1.02,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2595,36.6972,,8.9,1.22,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2667,36.7041,,6.85,1.51,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2739,36.7111,,8.43,1.7,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2811,36.718,,10.68,1.38,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2883,36.7249,,11.47,1.22,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.2956,36.7318,,15.15,0.75,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.3039,36.7379,,8.78,0.83,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.3129,36.7434,,12.2,0.75,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+Calaveras,-121.3218,36.749,,9.93,0.82,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.5928,36.0354,,26.74,1.85,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6011,36.0414,,37.03,0.87,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6098,36.0472,,39.9,0.93,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6173,36.0538,,33.17,0.93,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6248,36.0604,,31.52,0.96,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.632,36.0673,,32.78,1.29,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6397,36.0738,,35.91,1.13,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6477,36.0801,,30.13,1.06,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6546,36.0872,,36.68,1.14,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6628,36.0933,,33.4,1.05,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6705,36.0998,,24.73,0.89,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6785,36.106,,29.62,1,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6864,36.1124,,35.72,0.93,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6918,36.1206,,34.7,0.95,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.6992,36.1273,,43.71,1,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7071,36.1337,,28.63,1.02,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7145,36.1404,,30.98,1.11,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.721,36.1479,,33.87,1.15,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7275,36.1553,,28.52,1.08,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7359,36.1613,,36.46,0.94,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7454,36.1663,,25.69,1.08,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7532,36.1728,,33.26,1.02,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7596,36.1802,,34.99,1.02,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7657,36.188,,32.23,1.02,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7733,36.1946,,24.38,1.11,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7806,36.2014,,29.5,1.41,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7893,36.2071,,22.2,1.25,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.7957,36.2146,,23.56,1.12,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8028,36.2216,,29.76,1.19,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.808,36.23,,23.58,1.3,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8125,36.239,,26.08,1.24,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8205,36.2453,,27.71,1.22,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8284,36.2516,,32.48,1.21,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8354,36.2587,,28.94,1.33,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.843,36.2653,,25.57,1.28,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8507,36.2718,,21.27,1.53,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8575,36.279,,25.12,1.3,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.866,36.2848,,24.1,1.39,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8737,36.2913,,28.69,1.04,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8825,36.297,,34.42,1.13,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8889,36.3045,,31.01,1.15,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.8968,36.3109,,24.61,0.8,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9032,36.3184,,27.43,0.94,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9116,36.3244,,28.49,1.2,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9182,36.3317,,24.48,1.29,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9266,36.3377,,28.67,0.97,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9342,36.3443,,28.49,1.19,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.941,36.3515,,18.5,1.22,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9475,36.3589,,19.77,1.28,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9547,36.3658,,17.09,1.65,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9613,36.3732,,30.46,1.67,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9683,36.3803,,14.51,2.76,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9888,36.4018,,17.31,1.64,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.9958,36.4089,,25.86,1.62,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0098,36.423,,26.94,1.66,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0174,36.4296,,27.04,1.86,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0238,36.4371,,23.18,1.45,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.032,36.4433,,22.14,1.34,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0389,36.4504,,21.6,1.34,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0456,36.4577,,21.51,1.38,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0524,36.4649,,18.97,1.42,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0591,36.4722,,20.79,1.75,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0662,36.4792,,13.27,2.02,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0731,36.4864,,17.81,2.51,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0805,36.4931,,23.09,2.03,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0879,36.4999,,22.55,1.68,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.0949,36.507,,34.37,1.62,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1027,36.5134,,28.2,1.72,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1098,36.5204,,30.35,1.79,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1169,36.5274,,28.08,1.67,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1448,36.5557,,22.57,1.49,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1515,36.563,,30.15,1.35,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1594,36.5694,,34.5,1.48,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1676,36.5755,,27.99,1.03,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1753,36.5821,,31.71,1.3,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1829,36.5887,,29.86,1.51,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.1984,36.6017,,30.86,1.9,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.2064,36.608,,31.72,1.7,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.2143,36.6144,,27.03,1.75,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.2211,36.6216,,17.9,2.41,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.2277,36.629,,20.57,1.83,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.2436,36.6417,,16.09,2.13,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3076,36.6921,,14.5,1.57,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3152,36.6988,,13.07,2.16,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3234,36.7049,,7.53,3.59,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3318,36.7109,,15.42,1.74,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3404,36.7167,,14.47,2.19,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3485,36.723,,13.68,2,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.357,36.7289,,13.52,2.23,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.365,36.7352,,13.26,2.06,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3731,36.7414,,17.5,2.26,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3818,36.7472,,14.57,1.98,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3906,36.7529,,19.53,2.23,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.3996,36.7584,,17.92,2.06,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.4083,36.7641,,20.73,2.03,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.4626,36.7971,,15.25,2.38,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-121.481,36.8079,,6.26,2.17,,LiDAR,2007.2,2018.2,10.9,20,,,Yes,No
+San Andreas,-120.5247,35.9733,,25.63,1.27,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.5322,35.9799,,21.89,1.04,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.5377,35.9881,,27.59,1.26,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.5554,35.9993,,22.69,1.04,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.563,36.0059,,30.1,0.84,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.571,36.0121,,28.79,0.89,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.5784,36.0188,,34.16,1.03,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.5925,36.0328,,27.29,1.07,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.5991,36.0401,,26.48,0.63,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.6076,36.046,,35.53,0.62,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.6155,36.0523,,30.45,0.67,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.6231,36.0589,,28.47,0.7,,LiDAR,2005.4,2018.2,12.8,20,,,Yes,No
+San Andreas,-120.4527,35.9127,,9.54,1.1,,LiDAR,2005.4,2018.4,13,20,,,Yes,No
+San Andreas,-120.4672,35.9264,,9.74,0.92,,LiDAR,2005.4,2018.4,13,20,,,Yes,No
+San Andreas,-120.4895,35.9465,,18.09,0.89,,LiDAR,2005.4,2018.4,13,20,,,Yes,No
+San Andreas,-120.4972,35.953,,15.39,1.13,,LiDAR,2005.4,2018.4,13,20,,,Yes,No
+San Andreas,-120.5137,35.9651,,22.48,0.79,,LiDAR,2005.4,2018.4,13,20,,,Yes,No
+San Andreas,-120.5295,35.9777,,21.51,0.94,,LiDAR,2005.4,2018.4,13,20,,,Yes,No
