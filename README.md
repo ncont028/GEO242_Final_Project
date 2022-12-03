@@ -7,7 +7,7 @@ Final project codes, data files, and plots.
 2. HF_empty 
     - (directory containing .csv files that list non-data lines in the RE catalogs)
 3. Hayward_RE_catalogs 
-    -(directory of RE_catalog txt files of FARESearch outputs)
+    - (directory of RE_catalog txt files of FARESearch outputs)
 4. code_outputs 
     - (directory of outputs produced by the codes contianed in this repository)
 5. figures 
