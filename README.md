@@ -29,7 +29,7 @@ Final project codes, data files, and plots.
 13. q_faults.tar.gz 
     - (tar file containing kml files of relevant quaternary faults)
 14. slip_creep.m 
-   - (matlab function that calculates slip and creep rates for a given grid)
+    - (matlab function that calculates slip and creep rates for a given grid)
 
 ## Workflow
 1. run 'find_empty_lines.sh'
