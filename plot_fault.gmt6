@@ -1,0 +1,101 @@
+#!/bin/csh
+###########################
+# plot_fault.gmt6 
+#----------------------------------------------------------------
+# plotting RE grids and creep rate model locations from:
+# https://www.sciencebase.gov/catalog/item/63096ed5d34e3b967a8c1d1e
+# Johnson, K., Murray, J.R., and Wespestad, C.E., 2022, Creep rate models for California faults in the 2023 US National Seismic Hazard Model: U.S. Geological Survey data release, https://doi.org/10.5066/P94YGVWQ.
+#----------------------------------------------------------------
+# PARTIAL MISHMASH OF PLOT_RE_GRIDS.GMT6 & PLOT_RE_MAP.GMT6 FROM G.FUNNING
+###########################
+
+set grids = 'grids.txt'
+set creeps = 'HF_creep_model.txt' # only includes USGS Hayward Fault measurements
+set outfile = 'creep_locs.ps' # creep measurement coords plot
+set colpal = 'grids.cpt'
+
+gmt set  FORMAT_GEO_OUT = D FORMAT_GEO_MAP = D
+gmt set PS_MEDIA 600x700
+
+# COASTLINE
+gmt pscoast -JM16 -R-122.7/-121.6/37.1/38.2 -Df -Ba0.25f0.1 -BWeSn -Wthin,gray80 -Ggray90 -P -K > $outfile
+
+# HAYWARD POLYGON
+gmt psxy -J -R -W2,black,-- -O -K << EOF >> $outfile
+-121.756673 37.186139
+-122.551674 38.100397
+-122.390768 38.172662
+-121.607517 37.30622
+-121.756673 37.186139
+EOF
+
+# COLOR PALETTE
+gmt makecpt -Croma -T1/14/1 -D > $colpal
+
+# PLOT GRIDS
+cat $grids | paste - - | awk '{print "> -Z"NR; print $1, $6; print $2, $7; print $3, $8; print $4, $9; print $5, $10}' | gmt psxy -J -R -Wthick,-. -C$colpal -O -K >> $outfile
+
+# OVERLAY GRID NUMBERS
+cat $grids | paste - - | awk '{print ($1+$2+$3+$4)/4,($6+$7+$8+$9)/4,NR}' | gmt pstext -J -R -F+jMC+f14p,Helvetica-Bold,black -O -K >> $outfile
+
+# PLOT QFAULTS
+# latest quaternary faults
+gmt kml2gmt LatestQuaternary_qfaults.kml | grep -v ">" | awk '{if (($1>-122.7)&&($1<-121.6)&&($2>37.1)&&($2<38.2)) print $1, $2}'| gmt psxy -J -R -Sd0.05c -Gdarkorange1 -O -K >> $outfile
+
+# Hisotrical quaternary faults
+gmt kml2gmt Historical_qfaults.kml | grep -v ">" | awk '{if (($1>-122.7)&&($1<-121.6)&&($2>37.1)&&($2<38.2)) print $1, $2}' | gmt psxy -J -R -Sd0.05c -Gdarkorange1 -O -K >> $outfile
+
+# OVERLAY RE EVENTS
+foreach grid (001 002 003 004 005 006 007 008 009 010 011 012 013 014)
+   awk '{if ((NR>1)&&($1!="")) printf("%f  %f  %d\n",$3, $4, grid)}' grid=$grid  RE_catalog_$grid.txt | gmt psxy -J -R -Sc0.1c -Wfaint,black -C$colpal -O -K >> $outfile
+end
+
+# CREEP MEASUREMENT LOCATIONS
+gmt psxy $creeps -J -R -St0.3c -Wthick,hotpink2 -O -K >> $outfile
+
+# COLOR SCALE GRID NUMBER
+gmt psscale -J -R -C$colpal -Dg-122.65/37.15+w4c/0.7c+jBL -Bxa5f1+l"grid" -O -K >> $outfile
+
+##### LEGEND #####
+# Almost entirely copy pasted from the documentation
+# +jLT : justification for ref point,top left 
+# -D to use map coordinates, needs -J -R
+# But first: a white polygon for a solid, easy-to-read background
+## -L to close your polygon , -A draws polygon as straight lines.
+gmt psxy -J -R -Wthin,black -Gwhite -t20 -A -L -O -K << EOF >> $outfile
+-121.65 38.2
+-122.15 38.2
+-122.15 38.05
+-121.65 38.05
+EOF
+
+gmt pslegend -J -R -Dg-122.15/38.2/5+w5.5c/3.3c+jTL+l1.2 -C0.5c/0.5c -O -K << EOF >> $outfile
+# G is vertical gap, V is vertical line, N sets # of columns, D draws horizontal line.
+# H is header, L is label, S is symbol, T is paragraph text, M is map scale.
+G -0.1i
+H 12 Hayward Fault Repeaters
+D 0.2i 1p
+N 1
+V 0 1p
+S 0.1i t 0.15i hotpink2 0.25p 0.3i USGS measurement location
+S 0.1i c 0.06i darkorange1 0.25p 0.3i quaternary faults
+S 0.1i c 0.06i paleturquoise 0.25p 0.3i repeater
+# V 0 1p
+# D 0.2i 1p
+N 1
+# M 5 5 600+u f
+G 0.05i
+G 0.05i
+G 0.1i
+P
+EOF
+
+
+# END FILE AND SAVE
+echo showpage >> $outfile
+echo end >> $outfile
+
+# CONVERT .PS TO .JPG
+gmt psconvert $outfile -Tj
+ 
+
