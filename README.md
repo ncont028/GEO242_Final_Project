@@ -7,22 +7,24 @@ Final project codes, data files, and plots.
 3. Hayward_RE_catalogs (directory of RE_catalog txt files of FARESearch outputs)
 4. code_outputs (directory of outputs produced by the codes contianed in this repository)
 5. figures (directory of figures produced)
-6. NAC_final_project.m (main code; loads data, calculates slip, creep, and produces plots)
-7. beta_calib.m (matlab function that finds the least squares fit for the beta constant)
-8. creep_models.csv (USGS measurments on the Hayward fault polygon)
-9. find_empty_lines.sh (shell script that counts non-data lines int he RE catalogs)
-10. grids.txt (txt files of fault polygon grids)
-11. plot_fault.gmt6 (gmt script that plots REs, USGS measurement locations, fault traces)
-12. slip_creep.m (matlab function that calculates slip and creep rates for a given grid)
+6.  HF_creep_model.txt (txt files of USGS measurements on fault polygon)
+7. NAC_final_project.m (main code; loads data, calculates slip, creep, and produces plots)
+8. beta_calib.m (matlab function that finds the least squares fit for the beta constant)
+9. creep_models.csv (USGS surface creep rate measurments)
+10. find_empty_lines.sh (shell script that counts non-data lines int he RE catalogs)
+11. grids.txt (txt files of fault polygon grids)
+12. plot_fault.gmt6 (gmt script that plots REs, USGS measurement locations, fault traces)
+13. q_faults.tar.gz (tar file containing kml files of quaternary faults)
+14. slip_creep.m (matlab function that calculates slip and creep rates for a given grid)
 
 ## Workflow
-1. 
-
-## Directory organization
-In order for the INSERTFILENAME.m script to run correctly, ensure that the current working directory mus have the following organization:
-- Parent directory
-  - Subdirectory: Hayward RE catalogs
-    - RE catalog text files (.txt)
-  - Subdirectory: Grid workspaces
-  - Subdirectory: Final figures
-  - 
+1. run 'find_empty_lines.sh'
+    - must be in the same directory as the RE catalogs
+    - produces empty lines csv files used to separate families
+2 run NAC_final_project.m
+    - slip_creep.m, beta_calib.m , Hayward_RE_catalogs, grids.txt, and creep_models.csv ust be in the same directory
+    - produces figures for slip, creep rates, constant caibrations, HF_creep_model.txt (USGS measurements on the fault polygon), short- and long-term creep rates txt files, and .mat files used to load data ack in for each grid
+    - produces .mat files used to load data back in for each grid
+3. Run plot_fault.gmt
+    - grids.txt, RE catalog text files (.txt), HF_creep_model.txt, untarred q_faults.tar.gz contents must be in the same directory
+    - produces plot of fault (creep_locs.ps & creep_locs.jpg)
