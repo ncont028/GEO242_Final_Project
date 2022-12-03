@@ -36,7 +36,7 @@ Overleaf project url: https://www.overleaf.com/6761745353kdrpmnpdtrsj
 1. run 'find_empty_lines.sh'
     - must be in the same directory as the RE catalogs
     - produces empty lines csv files used to separate families (must copy into HF_empty directory or change NAC_final_project.m file load path)
-2 run NAC_final_project.m
+2. run NAC_final_project.m
     - slip_creep.m, beta_calib.m , Hayward_RE_catalogs, grids.txt, empty lines .csv files, and creep_models.csv ust be in the same directory
     - produces figures for slip, creep rates, constant caibrations, HF_creep_model.txt (USGS measurements on the fault polygon), short- and long-term creep rates txt files, and .mat files used to load data ack in for each grid
     - produces .mat files used to load data back in for each grid
